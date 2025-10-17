@@ -2,6 +2,8 @@
 
 Welcome to **DataCamp Data Analyst**, a growing portfolio of projects completed as part of the DataCamp Data Analyst track.  This repository serves as my personal playground for sharpening data‑analysis skills and showcasing what I’ve learned.  Think of it as a living document—new folders and notebooks will appear over time as I tackle more assignments and exploratory analyses.
 
+https://roadmap.sh/card/tall/6787ad7396e9097300d0738e?variant=dark&roadmaps=data-analyst%2Cai-data-scientist
+
 ## 🗂️ Projects
 
 Each project in this repo lives in its own folder under the root.  To add a new project, simply create a new directory at the top level (for example, `My New Project/`) and drop your notebook, data and any supporting assets into it.  Then update the list below:
